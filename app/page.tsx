@@ -157,24 +157,8 @@ export default function Home() {
             </svg>
             Twitter/X
           </a>
-          <a 
-            href="/docs" 
-            style={{
-              display: 'flex',
-              alignItems: 'center',
-              gap: '8px',
-              fontSize: '14px',
-              color: '#9ca3af',
-              textDecoration: 'none',
-              transition: 'color 0.2s'
-            }}
-            onMouseEnter={(e) => e.currentTarget.style.color = '#fff'}
-            onMouseLeave={(e) => e.currentTarget.style.color = '#9ca3af'}
-          >
-            <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
-              <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8l-6-6zm4 18H6V4h7v5h5v11z"/>
-            </svg>
-            Docs
+          <a href="https://tally.so/r/mRp9vP" target="_blank" rel="noopener noreferrer">
+            Docs (Coming Soon)
           </a>
         </div>
       </div>
