@@ -126,7 +126,7 @@ export default function Home() {
           <h3 style={{fontSize: '20px', fontWeight: 700}}>Oracle Degen</h3>
         </div>
         <p style={{fontSize: '14px', color: '#9ca3af', lineHeight: '1.6'}}>
-          Solana&apos;s first memecoin prediction market. Bet on the future with transparent odds.
+          Solana&apos;s memecoin prediction market. Bet on the future with transparent odds.
         </p>
       </div>
 

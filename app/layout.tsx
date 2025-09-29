@@ -11,6 +11,9 @@ const spaceGrotesk = Space_Grotesk({
 export const metadata: Metadata = {
   title: 'Oracle Degen - Solana Prediction Market',
   description: 'Predict the future of Solana memecoins',
+  icons: {
+    icon: '/logo.png',
+  },
 };
 
 export default function RootLayout({
