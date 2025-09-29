@@ -86,7 +86,7 @@ export const mockMarkets: Market[] = [
     noPool: 2180.60,
     category: 'MARKET CAP',
     status: 'active',
-    imageUrl: '/tokens/Pump.png'
+    imageUrl: '/tokens/PUMP.png'
   },
   {
     id: '8',
