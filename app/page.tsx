@@ -5,16 +5,12 @@ import { WalletMultiButton } from '@solana/wallet-adapter-react-ui';
 import Image from 'next/image';
 import { mockMarkets } from '@/lib/mockData';
 import MarketCard from '@/components/MarketCard';
-import MobileWarning from '@/components/MobileWarning';
 
 export default function Home() {
   const { publicKey } = useWallet();
 
   return (
-    <>
-      <MobileWarning />
-      <main className="min-h-screen bg-gradient-to-br from-purple-900 via-blue-900 to-blue-950 text-white"></main>
-
+    <main className="min-h-screen bg-gradient-to-br from-purple-900 via-blue-900 to-blue-950 text-white">
       <div className="container mx-auto px-4 py-6">
         <nav className="flex justify-between items-center mb-16">
   <div className="flex items-center gap-8">
@@ -242,6 +238,6 @@ export default function Home() {
     </div>
   </div>
 </footer>
-    </>
+    </main>
   );
 }
