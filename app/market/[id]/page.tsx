@@ -7,6 +7,7 @@ import { WalletMultiButton } from '@solana/wallet-adapter-react-ui';
 import { mockMarkets, calculateOdds, calculatePayout } from '@/lib/mockData';
 import Image from 'next/image';
 import { LineChart, Line, XAxis, YAxis, Tooltip, ResponsiveContainer } from 'recharts';
+import MobileWarning from '@/components/MobileWarning';
 
 export default function MarketDetailPage() {
   const params = useParams();
