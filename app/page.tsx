@@ -50,7 +50,7 @@ export default function Home() {
   </h2>
   
   <p className="text-base text-gray-200 mb-12 font-normal">
-    Solana&apos;s First Memecoin Prediction Market
+    Solana&apos;s Memecoin Prediction Market
   </p>
 </div>
         
