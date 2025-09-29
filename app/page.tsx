@@ -133,7 +133,7 @@ export default function Home() {
       {/* Social Links */}
       <div>
         <h4 style={{fontSize: '14px', fontWeight: 600, marginBottom: '16px', color: '#d1d5db'}}>
-          Community
+          Link
         </h4>
         <div style={{display: 'flex', flexDirection: 'column', gap: '12px'}}>
           <a 
