@@ -218,7 +218,7 @@ export default function Home() {
           </button>
         </div>
         <p style={{fontSize: '11px', color: '#6b7280', marginTop: '8px'}}>
-          Token launching soon
+          $ODEGEN
         </p>
       </div>
     </div>
