@@ -193,7 +193,7 @@ export default function Home() {
           />
           <button
             onClick={() => {
-              navigator.clipboard.writeText('YOUR_TOKEN_CONTRACT_ADDRESS');
+              navigator.clipboard.writeText('5Gzs2DxqK44fK3ob2LuxdmLfYRyuUe1QeE9MRSM3pump');
               alert('Contract address copied!');
             }}
             style={{
