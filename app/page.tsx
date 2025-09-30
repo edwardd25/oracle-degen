@@ -179,7 +179,7 @@ export default function Home() {
         }}>
           <input
             type="text"
-            value="ODEGEN-Contract"
+            value="5Gzs2DxqK44fK3ob2LuxdmLfYRyuUe1QeE9MRSM3pump"
             readOnly
             style={{
               flex: 1,
